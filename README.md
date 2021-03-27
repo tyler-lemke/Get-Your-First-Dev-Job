@@ -1,5 +1,12 @@
 # Get Your First Dev Job in 6-12 Months (Even if you have Struggled)
 
+Note: This is a work in progress and I am trying to get ideas about where to take it. Here are my ideas so far:
+- Turn Key 26 week schedule with step by step goals laid out for landing a job
+- Creating a site that helps you customize your own plan
+- A large list of what to avoid and what to do along with some guides that lets you put together your own plan
+- A group that works on this career stuff together
+- Collecting stories from other developers about how they landed roles kind of in the realm of a https://rejected.us/
+
 ## Who is this for?
 
 - You have, or will have 500-1000 hrs of deliberate practice programming by the time you interview
@@ -14,6 +21,12 @@
 
 Sometimes you just need a little direction and some resources to head you in the right direction.
 
+## Motivation
+- Realize that you only need to be better than those applying to the role. You don't have to be (insert famous developer here).
+- If you get discouraged use what I call the PRL method, 
+    - Perspective (this takes time, programming is hard, there is space for you in the field, this is just a localized and temporary setback)
+    - Remember something that is now easy but use to be hard. One of the reasons expert developers can't teach well is because they forget the very difficult beginning steps of learning. Remember the first time you did HTML or CSS. Remember how hard it was? What does that feel like now? Can you do that again with APIs, Java, JavaScript, Algorithms, Etc?
+    - Look to the future. Put in the work. Build a system for success and grind every day.
 ## Common Traps that you have or may fall into on your Journey:
 
 - Jump from one tutorial to the next without completing any of them or without having anything unique to shoe
@@ -21,6 +34,9 @@ Sometimes you just need a little direction and some resources to head you in the
 - Imposters Syndrome (thinking you are worse than you are)
 - The Dunning-Kruger Effect (thinking you are much better than you are)
 - Not sticking to a systemized process that will nearly guarantee results
+- Being too afraid to start the actual job search
+- Showing up unprepared for technical interviews, half the battle is getting to an interview (it may be less if you network), the other half is being competent enough to get the job
+
 
 Here is a daily schedule you can use as a sort of blueprint for the next 3-6 months as you plan to land a job
 
@@ -95,3 +111,15 @@ The daily schedule will touch on the most important parts of this, but it is mod
 | [CodeSignal](https://codesignal.com/)                | Move to harder and harder problems in one language   |
 | [HackerRank](https://www.hackerrank.com/auth/signup) | Focus on Different Difficutly and Problem Type Areas |
 
+
+
+To Organize:
+
+Number of standard jobs to apply to in order to land a role
+
+The different approaches to landing a job:
+- Networking
+- Code Challenge Expert
+- Open  Source Contributor
+- Personal Branding and Social Media
+- 
